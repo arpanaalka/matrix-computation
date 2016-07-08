@@ -15,3 +15,4 @@ ei=ei/(x'*x);
 eigen=ei
 
 end
+
